@@ -30,8 +30,8 @@ This is a screenshot of my own solution
 
 ### Links
 
-- Solution URL: (https://bit.ly/38CPMQ1)
-- Live Site URL: (https://bit.ly/3n218Fu)
+- Solution URL: (https://bit.ly/3bOkzOl)
+- Live Site URL: (https://bit.ly/3umzo10)
 
 ### Built with
 
